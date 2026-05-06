@@ -1,4 +1,4 @@
-module github.com/kindo-ai/passterisk
+module github.com/kenk667/passterisk
 
 go 1.22.0
 
